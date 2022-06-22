@@ -1,2 +1,2 @@
 # Data-Analysis-Portfolio-Projects
-Detailed Ananlysis of Covid imparct on world 
+Detailed Ananlysis of Covid impact on world 
